@@ -193,7 +193,7 @@ nav {
 }
 
 #navbar li:first-child {
-  padding: 2 15 2 1px;
+  padding: 2 0 2 1px;
 }
 
 #navbar li:last-child {
