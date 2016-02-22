@@ -72,9 +72,22 @@ and (min-width: 1200px){
 
 html {
   font-family: 'Open Sans', Times, serif;
-  font-size: 15px;
+  font-size: 20px;
   background-color: #F6F6F6;
 }
+
+@media only screen
+and (min-width: 1200px){
+    /* For desktop: */
+    html {
+      font-family: 'Open Sans', Times, serif;
+      font-size: 15px;
+      background-color: #F6F6F6;
+    }
+
+}
+
+
 
 a:link {
     text-decoration: none;
