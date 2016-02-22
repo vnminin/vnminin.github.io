@@ -12,10 +12,21 @@ h2 {
 }
 
 .title {
-      margin: 0px;
+      margin:0;
       padding: 0 0 0 15px;
 			text-align:left;
 }
+
+@media only screen
+and (min-width: 1200px){
+    /* For desktop: */
+    .title {
+          margin:0 0 0 -12;
+          padding: 0 0 0 15px;
+    			text-align:left;
+        }
+}
+
 
 img {
     max-width: 100%;
@@ -170,7 +181,7 @@ nav {
 
 #navbar{
 			list-style:none;
-			margin: 0;
+			margin:0 0 0 -12;
 			padding: 0 0 0 0;
 			text-align:left;
       background-color: none;
@@ -193,7 +204,7 @@ nav {
 }
 
 #navbar li:first-child {
-  padding: 2 0 2 1px;
+  padding: 2 15 2 1px;
 }
 
 #navbar li:last-child {
