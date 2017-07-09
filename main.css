@@ -51,10 +51,10 @@ img {
 
 }
 
-.col-1 {width: 0.0%;}
+.col-1 {width: 1.0%;}
 .col-2 {width: 25%; }
 .col-3 {width: 100%;}
-.col-4 {width: 50%;}
+.col-4 {width: 40%;}
 .col-5 {width: 41.66%;}
 .col-6 {width: 50%;}
 .col-7 {width: 58.33%;}
@@ -125,7 +125,7 @@ nav {
   margin: 0px;
   padding: 0 0 20 0px;
   text-align:center;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
 #news {
