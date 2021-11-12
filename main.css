@@ -29,6 +29,15 @@ and (min-width: 1200px){
 }
 
 
+.box {
+    margin: 0px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 7px;
+    background-color: #F5F5F5;
+    border: 0px solid #B0CFDE;
+}
+
 img {
     max-width: 100%;
     height: auto;
