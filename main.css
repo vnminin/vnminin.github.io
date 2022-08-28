@@ -179,7 +179,7 @@ and (min-width: 1200px){
       border-right: 0px solid #aaa;
       border-bottom: 0px solid #aaa;
       padding: 0 0 0 0px;
-      background-color: none;
+      background-color: lightblue;
       font-size: 1.0em;
       font-weight: bold;
 }
